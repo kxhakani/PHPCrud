@@ -1,0 +1,31 @@
+.table
+{
+	display: table;
+}
+.title
+{
+	display: table-caption;
+	text-align: center;
+	font-weight: bold;
+	font-size: larger;
+}
+.heading
+{
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+	background: #A4A4A4;
+}
+.row
+{
+	display: table-row;
+}
+.cell
+{
+	display: table-cell;
+	border: solid;
+	border-width: thin;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+a:hover{cursor: hand; cursor: pointer;}
